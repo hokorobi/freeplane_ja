@@ -1,1 +1,1 @@
-ruby extract_same_key_and_different_value.rb Resources_en.properties Resources_ja.properties Resources_ja_fm.properties Resources_en_diff.properties Resources_ja_diff.properties Resources_ja_fm_diff.properties
+ruby extract_same_key_and_different_value.rb ..\Resources_en.properties ..\Resources_ja.properties ..\Resources_ja_fm.properties Resources_en_diff.properties Resources_ja_diff.properties Resources_ja_fm_diff.properties
